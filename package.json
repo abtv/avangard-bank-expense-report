@@ -1,0 +1,17 @@
+{
+  "name": "avangard-bank-expense-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abtv",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "0.4.1",
+    "csv-string": "4.0.1",
+    "decimal.js": "10.3.1"
+  }
+}
